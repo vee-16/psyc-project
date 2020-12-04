@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/psyc-project/static/css/main.3d56cc92.chunk.css",
-    "main.js": "/psyc-project/static/js/main.698c21e8.chunk.js",
-    "main.js.map": "/psyc-project/static/js/main.698c21e8.chunk.js.map",
+    "main.js": "/psyc-project/static/js/main.31392ca9.chunk.js",
+    "main.js.map": "/psyc-project/static/js/main.31392ca9.chunk.js.map",
     "runtime-main.js": "/psyc-project/static/js/runtime-main.6b3e0440.js",
     "runtime-main.js.map": "/psyc-project/static/js/runtime-main.6b3e0440.js.map",
     "static/js/2.a7884c47.chunk.js": "/psyc-project/static/js/2.a7884c47.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.6b3e0440.js",
     "static/js/2.a7884c47.chunk.js",
     "static/css/main.3d56cc92.chunk.css",
-    "static/js/main.698c21e8.chunk.js"
+    "static/js/main.31392ca9.chunk.js"
   ]
 }
